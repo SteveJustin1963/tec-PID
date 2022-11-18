@@ -1,4 +1,4 @@
-// write matlab m code for x, y, z axis pid controller software
+% write matlab m code for x, y, z axis pid controller software
 
  
 
